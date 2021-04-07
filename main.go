@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/skovati/gsh/shell"
+    "github.com/skovati/gosh/shell"
 )
 
 func main() {
