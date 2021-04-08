@@ -4,17 +4,18 @@ extremely simple unix shell written in go
 ## installation
 ```
 git clone https://github.com/skovati/gosh
-go build
+cd gosh
+go install
 ```
 
 ## usage
 ```
-go run .
+gosh
 exit
 ```
 
 ## features
-- custom cd command
+- change directory
 - prints working directory
 - ANSI colored prompt
 
